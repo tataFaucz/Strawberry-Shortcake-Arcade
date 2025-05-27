@@ -40,9 +40,9 @@ O objetivo é simples e viciante: **combine 3 ou mais peças iguais** para ganha
 ## 🧩 Estrutura de Arquivos
 
 📁 Strawberry-Shortcake-Arcade/
-- ├── moranguinho.html → Estrutura da aplicação
-- ├── estilo.css → Estilos da interface
-- ├── estilo.js → Lógica do jogo e interações
+- ├── index.html → Estrutura da aplicação
+- ├── style.css → Estilos da interface
+- ├── moranguinho.js → Lógica do jogo e interações
 - ├── db.php → Conexão com MySQL
 - ├── players.php → CRUD de jogadores
 - ├── ranking.php → Gestão de pontuações
